@@ -3,7 +3,7 @@
 
 <div>
 <img height='250px' src='https://github-readme-stats.vercel.app/api?username=lordrodrigoo&theme=transparent&show_icons=true' > 
-<img height='250px 'src='https://github-readme-stats.vercel.app/api/top-langs/?username=lordrodrigoo&theme=transparent&show_icons=true' > 
+<img height='250px 'src='https://github-readme-stats.vercel.app/api/top-langs/?username=lordrodrigoo&theme=transparent&show_icons=true&hide_progess=true' > 
 </div>
 
 ## Linguagens e Tecnologias que uso:
