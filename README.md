@@ -6,7 +6,7 @@
 <img height='250px 'src='https://github-readme-stats.vercel.app/api/top-langs/?username=lordrodrigoo&theme=transparent&show_icons=true&hide_progess=true' > 
 </div>
 
-## Linguagens e Tecnologias que uso:
+## languages and technologies:
 
 <span>
   <img alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -25,7 +25,7 @@
 </span>
 
 
-## Me encontre por aqui:
+## find me here:
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lordrodrigoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-almeida-barros-27381b238/)
