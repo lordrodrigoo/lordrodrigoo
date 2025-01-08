@@ -10,6 +10,9 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
@@ -17,9 +20,22 @@ jobs:
           github_user_name: lordrodrigoo
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Upload para o GitHub Pages
+      - name: Upload Snake Game
+        uses: actions/upload-artifact@v3
         with:
-          target_branch: output
-          build_dir: dist
+          name: snake-game
+          path: dist/snake.svg
+
+      # Permissão para fazer push no repositório
+      - name: Set up Git for Push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://github.com/${{ github.repository }}
+          git checkout -b output
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation"
+          git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
