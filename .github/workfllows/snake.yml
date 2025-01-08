@@ -2,7 +2,7 @@ name: Snake Game Animation
 
 on:
   schedule:
-    - cron: "0 20 * * *" # Executa todos os dias às 20:00 UTC
+    - cron: "0 12 * * *" 
   workflow_dispatch:
 
 jobs:
