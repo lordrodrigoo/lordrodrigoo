@@ -33,5 +33,5 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/523888912737894413)
 
 
-![Snake animation](https://github.com/lordrodrigoo/lordrodrigoo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lordrodrigoo/lordrodrigoo/)
 
