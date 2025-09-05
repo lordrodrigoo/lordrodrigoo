@@ -1,4 +1,4 @@
- Olá! Sou o Rodrigo Almeida, Desenvolvedor Back-End 👋
+ Olá! Sou o Rodrigo Almeida, Desenvolvedor Full Stack Junior👋
 
 
 <div>
@@ -17,11 +17,18 @@
   &nbsp;&nbsp;
   <img alt="CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   &nbsp;&nbsp;
-  <img alt="Java Script" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img alt="JavaScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   &nbsp;&nbsp;
-  <img alt="React-Native" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img alt="React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   &nbsp;&nbsp;
-  
+  <img alt="Angular" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
+  &nbsp;&nbsp;
+  <img alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  &nbsp;&nbsp;
+  <img alt="SQLite" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+  &nbsp;&nbsp;
+  <img alt="MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  &nbsp;&nbsp;
 </span>
 
 
