@@ -1,4 +1,4 @@
- Olá! Sou o Rodrigo Almeida, Desenvolvedor Full Stack Junior👋
+ Olá! Sou o Rodrigo Almeida, Desenvolvedor Full Stack 👋
 
 
 <div>
