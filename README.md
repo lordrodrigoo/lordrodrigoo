@@ -4,6 +4,8 @@
 ## languages and technologies:
 
 <span>
+ <img alt="AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg">
+  &nbsp;&nbsp;
   <img alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   &nbsp;&nbsp;
   <img alt="Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
