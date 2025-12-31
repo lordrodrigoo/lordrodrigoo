@@ -1,4 +1,4 @@
- Olá! Sou o Rodrigo Almeida, Desenvolvedor Full Stack 👋
+ Hi! I'm Rodrigo Almeida, Full Stack Developer 👋
 
 
 ## languages and technologies:
