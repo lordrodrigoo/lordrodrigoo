@@ -8,6 +8,12 @@
   &nbsp;&nbsp;
   <img alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   &nbsp;&nbsp;
+  <img alt="FastAPI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
+  &nbsp;&nbsp;
+  <img alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  &nbsp;&nbsp;
+  <img alt="Pytest" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg">
+  &nbsp;&nbsp;
   <img alt="Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
   &nbsp;&nbsp;
   <img alt="HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -26,12 +32,7 @@
   &nbsp;&nbsp;
   <img alt="MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
   &nbsp;&nbsp;
-  <img alt="FastAPI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
-  &nbsp;&nbsp;
-  <img alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  &nbsp;&nbsp;
-  <img alt="Pytest" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg">
-  &nbsp;&nbsp;
+  
 </span>
 
 
